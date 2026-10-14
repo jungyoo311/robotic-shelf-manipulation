@@ -1,5 +1,7 @@
 # Object-Aware Robotic Warehouse Manipulation
 
+![Object-aware robotic warehouse manipulation with a robot arm, rack-front camera, and storage compartments](assets/project-info.png)
+
 Robotic shelf stowing and retrieval using pretrained VLAs, focusing on thin, deformable, and partially occluded objects.
 
 ## Planned Stack
